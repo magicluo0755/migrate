@@ -4,4 +4,3 @@ cli/cli
 cli/migrate
 .coverage
 .godoc.pid
-vendor/
